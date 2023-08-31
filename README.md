@@ -29,7 +29,7 @@ To schedule this script to run periodically using cron:
 3. Add the following line to run the script all time, for example:
 * * * * * /path/to/disk_space_monitor.sh
 Replace `/path/to` with the actual path to the directory containing the script.
-4. Save and exit the editor.
+4. Save and exit the editor.  
 
 ## Note
 
