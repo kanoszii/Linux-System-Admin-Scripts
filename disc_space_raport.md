@@ -2,6 +2,18 @@
 
 This script monitors disk space usage in a specified user's home directory. If the disk space usage exceeds the threshold of 90%, the script sends an email notification. The script is designed to be run through cron for continuous monitoring.
 
+# Setting Up SMTP for Sending Emails via Gmail
+
+To ensure the proper functioning of the SMTP service for sending emails through Gmail, follow these steps:
+
+1. Access the Gmail account panel that you intend to use.
+2. Navigate to the Security tab.
+3. Enable two-step verification for added security.
+4. After enabling, refresh the page and scroll down.
+5. Create an application password specifically for this purpose.
+6. Save the generated application password securely.
+7. When sending emails from your Gmail account, provide both the email address and the application password you generated.
+
 ## Usage
 
 1. Clone or download this repository to your system.
