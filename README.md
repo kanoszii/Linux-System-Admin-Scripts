@@ -26,7 +26,7 @@ To schedule this script to run periodically using cron:
 
 1. Open your terminal.
 2. Run `crontab -e` to edit the cron jobs.
-3. Add the following line to run the script every hour, for example:
+3. Add the following line to run the script all time, for example:
    * * * * * /path/to/disk_space_monitor.sh
 ## Note
 
