@@ -1,6 +1,6 @@
 # Linux System Automation and Administration
 
-In this repository, you will find various scripts related to automation and administration of Linux systems. Our aim is to simplify system management and everyday tasks related to maintaining and configuring Linux-based servers, services, and other aspects of Linux systems.
+In this repository, you will find various scripts related to automation and administration of Linux systems. My aim is to simplify system management and everyday tasks related to maintaining and configuring Linux-based servers, services, and other aspects of Linux systems.
 
 ## Introduction
 
