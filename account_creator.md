@@ -17,12 +17,12 @@ The script will read the file.txt, create groups if they don't exist, add users 
 Script Explanation
 The script performs the following steps:
 
-## Description  
+## Functions of script  
 
-Reads the file.txt containing username-groupname pairs, one per line.
-Checks if each group specified in the file already exists; if not, it creates the group.
-Checks if each user specified in the file already exists; if not, it adds the user to the specified group.
-Provides status messages indicating whether groups and users were added or if they already existed.
+- Reads the file.txt containing username-groupname pairs, one per line.
+- Checks if each group specified in the file already exists; if not, it creates the group.
+- Checks if each user specified in the file already exists; if not, it adds the user to the specified group.
+- Provides status messages indicating whether groups and users were added or if they already existed.
 
 ## Note  
 - Feel free to use and modify this script to suit your needs for managing users and groups on a Linux system.
