@@ -11,9 +11,8 @@ This is a Bash script that helps automate the process of adding new users and gr
 3. Run the script using the following command:
 
    ```bash
-   ./account_creator.sh
-
-
+   ./account_creator.sh  
+   
 The script will read the file.txt, create groups if they don't exist, add users to the specified groups, and provide feedback on the operations performed.
 Script Explanation
 The script performs the following steps:
