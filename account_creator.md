@@ -25,4 +25,4 @@ Checks if each user specified in the file already exists; if not, it adds the us
 Provides status messages indicating whether groups and users were added or if they already existed.
 
 ## Note  
-Feel free to use and modify this script to suit your needs for managing users and groups on a Linux system.
+- Feel free to use and modify this script to suit your needs for managing users and groups on a Linux system.
