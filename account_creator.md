@@ -1,6 +1,6 @@
 # Account Creator Script
 
-This is a Bash script that helps automate the process of adding new users and groups to a Linux system using a text file as input. It is designed to make user and group management more efficient and user-friendly.
+This script helps automate the process of adding new users and groups to a Linux system using a text file as input. It is designed to make user and group management more efficient and user-friendly.
 
 ## Usage
 
