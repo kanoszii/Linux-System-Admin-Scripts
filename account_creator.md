@@ -1,4 +1,4 @@
-# User and Group Management Script
+# Account Creator Script
 
 This is a Bash script that helps automate the process of adding new users and groups to a Linux system using a text file as input. It is designed to make user and group management more efficient and user-friendly.
 
@@ -11,4 +11,19 @@ This is a Bash script that helps automate the process of adding new users and gr
 3. Run the script using the following command:
 
    ```bash
-   ./user_group_management.sh
+   ./account_creator.sh
+
+
+The script will read the file.txt, create groups if they don't exist, add users to the specified groups, and provide feedback on the operations performed.
+Script Explanation
+The script performs the following steps:
+
+Reads the file.txt containing username-groupname pairs, one per line.
+
+Checks if each group specified in the file already exists; if not, it creates the group.
+
+Checks if each user specified in the file already exists; if not, it adds the user to the specified group.
+
+Provides status messages indicating whether groups and users were added or if they already existed.
+
+Feel free to use and modify this script to suit your needs for managing users and groups on a Linux system.
