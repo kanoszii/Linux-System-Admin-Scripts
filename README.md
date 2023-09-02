@@ -18,6 +18,6 @@ Each script is thoroughly documented and can be customized to fit your specific 
 
 ## Support and Contributions
 
-If you have questions, feedback, or need assistance related to any of these scripts, please feel free to leave comments in the relevant sections of the repository. Our community is eager to help you troubleshoot issues and customize the scripts to your needs.
+If you have questions, feedback, or need assistance related to any of these scripts, please feel free to leave comments in the relevant sections of the repository..
 
-Thank you for using our automation tools, and we wish you effective Linux system administration!
+Thank you for using my automation tools, and I wish you effective Linux system administration!
