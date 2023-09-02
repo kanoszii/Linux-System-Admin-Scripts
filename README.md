@@ -8,7 +8,7 @@ Each script is thoroughly documented and can be customized to fit your specific 
 
 ## Script Overview
 
-1. **Automated Backup Script (`backup.sh`):** This script automates the backup of specified directories using the `rsync` tool. It can be scheduled as a `cron` job for regular backups.
+1. **Automated Backup Script (`cron_backup.sh`):** This script automates the backup of specified directories using the `rsync` tool. It can be scheduled as a `cron` job for regular backups.
 
 2. **Automated Backup Cleanup Script (`cron_backup_cleaner.sh`):** This script is responsible for automatically removing the oldest backup files from a specified directory. It helps maintain cleanliness in the backup directory and prevents excessive disk usage.
 
