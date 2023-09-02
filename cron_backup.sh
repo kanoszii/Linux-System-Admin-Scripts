@@ -3,9 +3,9 @@
 # IMPORTANT - SCRIPT SHOULD BE CONNECTED WITH cron_backup_cleaner.sh FROM MY REPOSITORY
 # Script should run in crontab
 
-to_backup="/etc/"
-backup_dir="/home/kanoszii/Desktop/backup_advanced/"
-log_path="/home/kanoszii/Desktop/backup.log"
+to_backup="/etc/" # directory that u want to backup automatically
+backup_dir="/path/to/backup/directory/"
+
 
 # if the backup directory does not exist script creates it
 if [ ! -d "$backup_dir" ]; then
