@@ -17,8 +17,8 @@ This is a simple bash script for automated backups of the `/etc/` directory. The
    
 Configure the script to run periodically using cron. You can add an entry in your crontab to run the script at your desired schedule. For example, to run the script every day at 2 AM:  
    ```bash
-   0 2 * * * /path/to/backup.sh  
-Make sure to replace /path/to/backup.sh with the actual path to your script.
+   0 2 * * * /path/to/backup.sh
 
+## Note
 
-
+This script is designed to work with a companion script named cron_backup_cleaner.sh available in this repository. Make sure to set up the cleaning script as well for managing your backups.
