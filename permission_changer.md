@@ -20,7 +20,8 @@ This is a simple Bash script that allows you to change the permissions and group
 Follow the on-screen prompts to provide the required details:  
 - Enter the path to the directory you wish to modify.
 - Specify the group name for which you want to change permissions.
-- Input the desired permissions in numeric format (e.g., 755).  
+- Input the desired permissions in numeric format (e.g., 755).
+
 The script will apply the permissions and group ownership you specified to the directory.
 Once the permissions have been successfully changed, you will receive a confirmation message.
 
